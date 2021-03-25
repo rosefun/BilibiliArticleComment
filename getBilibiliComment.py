@@ -1,7 +1,6 @@
 # coding:utf-8
 import sys,os
-os.chdir(r"F:\研究生\github项目\自动获取Bilibili评论")
-sys.path.append(r"F:\研究生\github项目\自动获取Bilibili评论")
+
 
 import copy
 import exceptions
